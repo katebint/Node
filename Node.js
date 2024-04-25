@@ -62,4 +62,4 @@ function getPaths(root, pathsToFind) {
 
 
 // should return [ '0 -> 10 -> 150 -> 200', '0 -> 500' ]
-console.log(getPaths(root, [150, 200, 500]));
+console.log(getPaths(root, [200, 500]));
